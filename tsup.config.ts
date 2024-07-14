@@ -2,7 +2,7 @@ import { defineConfig } from "tsup";
 
 export default defineConfig({
   entry: ["./src/index.ts"],
-  format: ["esm"],
+  format: ["cjs"],
   clean: true,
   dts: false,
   treeshake: true,
@@ -11,7 +11,4 @@ export default defineConfig({
     "@actions/core",
   ],
   skipNodeModulesBundle: false,
-  outExtension: () => ({
-    js: ".js",
-  }),
 });
