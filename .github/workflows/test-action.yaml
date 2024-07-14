@@ -1,4 +1,4 @@
-name: check for uncommitted dist/ changes
+name: test action
 
 on:
   push:
