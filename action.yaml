@@ -1,0 +1,11 @@
+name: Action Template
+description: An opinionated template for creating GitHub Actions
+
+author: luxass
+branding:
+  color: purple
+  icon: package
+
+runs:
+  using: node20
+  main: dist/index.js
