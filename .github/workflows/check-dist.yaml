@@ -3,11 +3,11 @@ name: check for uncommitted dist/ changes
 on:
   push:
     paths-ignore:
-      - '**.md'
+      - "**.md"
   pull_request:
     types: [opened, synchronize]
     paths-ignore:
-      - '**.md'
+      - "**.md"
   workflow_dispatch:
 
 jobs:
