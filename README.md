@@ -1,6 +1,6 @@
 # github-action-template
 
-A opinionated github actions template
+An opinionated github actions template
 
 ## Usage
 
