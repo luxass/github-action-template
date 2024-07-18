@@ -2,6 +2,22 @@
 
 An opinionated github actions template
 
+## Try it now!
+
+### GitHub Template
+
+[Create a new repository from this template](https://github.com/new?template_name=github-action-template&template_owner=luxass&name=action-[name])
+
+### Manual
+
+If you prefer to do it manually without the template, you can do the following:
+
+```bash
+npx degit luxass/github-action-template action-[your-action-name]
+cd action-[your-action-name]
+pnpm install
+```
+
 ## Usage
 
 Before you start, you need to do the following to setup the project:
