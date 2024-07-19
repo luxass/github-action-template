@@ -11,4 +11,9 @@ export default defineConfig({
     "@actions/core",
   ],
   skipNodeModulesBundle: false,
+  outExtension() {
+    return {
+      js: ".cjs",
+    };
+  },
 });

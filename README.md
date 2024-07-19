@@ -1,6 +1,6 @@
 # github-action-template
 
-An opinionated github actions template
+An opinionated GitHub Actions Template using [tsup](https://github.com/egoist/tsup) for bundling.
 
 ## Try it now!
 
