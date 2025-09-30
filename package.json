@@ -22,8 +22,8 @@
   "devDependencies": {
     "@luxass/eslint-config": "5.3.2",
     "@types/node": "22.18.3",
-    "eslint": "^9.34.0",
-    "eslint-plugin-format": "^1.0.1",
+    "eslint": "9.34.0",
+    "eslint-plugin-format": "1.0.1",
     "tsup": "8.5.0",
     "typescript": "5.9.2"
   },
