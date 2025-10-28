@@ -2,6 +2,11 @@
 
 An opinionated GitHub Actions Template using [tsup](https://github.com/egoist/tsup) for bundling.
 
+> [!IMPORTANT]
+> tsup is not actively maintained anymore. Consider using [tsdown](https://github.com/rolldown/tsdown) as a more modern alternative for bundling your GitHub Actions.
+> A template can be found here: [github-action-tsdown-template](https://github.com/luxass/github-action-template-tsdown)
+
+
 ## Try it now!
 
 ### GitHub Template
